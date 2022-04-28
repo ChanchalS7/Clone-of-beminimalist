@@ -908,7 +908,7 @@
 
 function OurProductPage()
 {
-    window.location.href = "/ourproduct";
+    window.location.href = "/ourproduct/mains";
 }
 function GoToHomePage()
 {
