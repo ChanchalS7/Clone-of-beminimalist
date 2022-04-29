@@ -24,7 +24,7 @@ Deployed using Netlify
 Clone the project
 
 ```
-https://github.com/rahulr41180/Clone_of_Minimalist
+https://github.com/rahulr41180/Clone-of-beminimalist
 ```
 
 Install npm packages
@@ -42,7 +42,7 @@ npm run server
 View in Browser
 
 ```
-go to http://localhost:5000/index
+go to http://localhost:5000
 ```
 
 <div style='page-break-after: always'></div>
