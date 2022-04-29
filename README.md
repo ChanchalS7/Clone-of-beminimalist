@@ -16,9 +16,8 @@ In this project we have tried to make a clone of <a href="https://beminimalist.c
 ### <u>Deployed Link</u>
 
 Deployed using Netlify 
-```
 
- ```
+<a href="https://damp-cliffs-11671.herokuapp.com/">https://damp-cliffs-11671.herokuapp.com/</a>
 
 ### <u>Run Locally</u>
 
