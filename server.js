@@ -4,7 +4,11 @@ const app = require("./src/index");
 // const Connectdb = require("./src/configs/db")
 const Connectdb = require("./src/configs/db");
 
-app.listen(5000, () =>
+require("dotenv").config()
+
+const Port = process.env.PORT || 5000;
+
+app.listen(Port, () =>
 {
     try
     {
