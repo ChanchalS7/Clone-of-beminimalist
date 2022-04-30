@@ -68,7 +68,9 @@ All the data got stored in and called from <b>Mongo Atlas cloud database</b>.
 - Sorting
 - Browser Cookies
 
+
 <div style='page-break-after: always'></div>
+
 
 ### <u>A short clip which will give Project Overview</u>
 
@@ -78,7 +80,6 @@ https://drive.google.com/file/d/13RbV_cJWwRp8MebuPz4uKIAyWdFJ9FWR/view?usp=shari
 
 ### <u>Credits :</u>
 
-
 <b>Rahul Rathor</b>
 
 > <a href="https://github.com/rahulr41180" target="_blank">Github</a>
@@ -86,6 +87,8 @@ https://drive.google.com/file/d/13RbV_cJWwRp8MebuPz4uKIAyWdFJ9FWR/view?usp=shari
 > <a href="https://www.linkedin.com/in/rahul--rathor/" target="_blank">Linkedin</a>
 
 > <a href="https://medium.com/@www.rahulr41180/clone-of-beminimalist-co-including-frontend-backend-cacd484aad79" target="_blank">Blog</a>
+
+> <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 <b>Devashish Kumar</b>
 
@@ -110,8 +113,6 @@ https://drive.google.com/file/d/13RbV_cJWwRp8MebuPz4uKIAyWdFJ9FWR/view?usp=shari
 > <a href="https://www.linkedin.com/in/chanchals7/" target="_blank">Linkedin</a>
 
 > <a href="https://chsverma7.medium.com/clone-of-beminimalist-co-including-frontend-backend-7cf352b5d652" target="_blank">Blog</a>
-
-> <a href="https://rahul-rathor-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 ### <u>You can read more about our project on our blog : <a href="https://chsverma7.medium.com/clone-of-beminimalist-co-including-frontend-backend-7cf352b5d652" target="_blank">Clone of beminimalist.co</a> </u>
 
